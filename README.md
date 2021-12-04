@@ -1,5 +1,5 @@
 # cam-hackers
-# coded by el idrissi yazid
+# coded by YAZID EL IDRISSI
 
 Hack Cameras
 
